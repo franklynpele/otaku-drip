@@ -126,7 +126,7 @@ header {
     align-items: center;
     justify-content: center;
     height: 400px;
-    background-image: url(Images/20220820_142620.png);
+    background-image: url('Images/20220820_142620.png');
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
