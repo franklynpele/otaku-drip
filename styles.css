@@ -305,7 +305,7 @@ textarea::placeholder {
 .otaku-submit {
     cursor: pointer;
     position: relative;
-    Right: 150px;
+    Right: 100px;
     color: #ff0000;
     border: 1px solid #1a1239;
     padding: 8px;
