@@ -336,9 +336,6 @@ textarea::placeholder {
     border-radius: 0px;
     background: #1a1239;
     box-shadow: inset 5px 5px 10px #0a0717, inset -5px -5px 10px #2a1d5b;
-    display: flex;
-    justify-content: center;
-    align-items: center;
 }
 
 .search-bar::placeholder {
@@ -501,7 +498,7 @@ footer {
 
 @media screen and (max-width: 768px) {
     html {
-        max-width: 768px;
+        max-width: 100%;
     }
     .menu-bar {
         background: #1a1239;
