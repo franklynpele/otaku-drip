@@ -311,6 +311,7 @@ textarea::placeholder {
 .otaku-submit {
     cursor: pointer;
     color: #ff0000;
+    Position: relative;
     border: 1px solid #1a1239;
     padding: 8px;
     margin-top: 20px;
@@ -349,6 +350,7 @@ textarea::placeholder {
 .search {
     margin-bottom: 80px;
     Position: unset;
+    display: flex;
 }
 
 .login-box {
