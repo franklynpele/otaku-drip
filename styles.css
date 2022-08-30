@@ -348,6 +348,11 @@ textarea::placeholder {
     justify-content: center;
     align-items: center;
 }
+.search i {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
 
 .login-box {
     margin-top: 1px;
