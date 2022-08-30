@@ -344,10 +344,7 @@ textarea::placeholder {
 }
 
 .search {
-    margin-bottom: 60px;
-    position: relative;
-    left: 100px;
-    bottom: 16px;
+    margin-bottom: 80px;
 }
 
 .login-box {
