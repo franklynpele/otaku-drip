@@ -344,9 +344,6 @@ textarea::placeholder {
 
 .search {
     margin-bottom: 80px;
-    display: flex;
-    justify-content: center;
-    align-items: center;
     Position: unset;
 }
 
