@@ -193,7 +193,7 @@ header {
     border-radius: 0px;
     background: #1a1239;
     box-shadow: 5px 5px 15px #0a0717, -5px -5px 15px #2a1d5b;
-    height: 350px;
+    height: fit-content;
     width: 350px;
 }
 
