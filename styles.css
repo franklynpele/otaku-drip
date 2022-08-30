@@ -345,6 +345,7 @@ textarea::placeholder {
 
 .search {
     margin-bottom: 80px;
+    display: flex;
 }
 
 .login-box {
