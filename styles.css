@@ -13,7 +13,6 @@ body {
     font-size: 1.15em;
     color: #1a1239;
     background-color: #fff;
-    max-width: 100%;
 }
 
 .menu-bar {
@@ -337,6 +336,9 @@ textarea::placeholder {
     border-radius: 0px;
     background: #1a1239;
     box-shadow: inset 5px 5px 10px #0a0717, inset -5px -5px 10px #2a1d5b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .search-bar::placeholder {
