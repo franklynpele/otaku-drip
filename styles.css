@@ -265,12 +265,6 @@ header {
     display: block;
     margin-bottom: 3px;
 }
-#form-1 {
-   display: flex;
-   align-items: center;
-   justify-content: center;
-
-}
 
 .form-1,
 select,
@@ -312,6 +306,7 @@ textarea::placeholder {
     cursor: pointer;
     color: #ff0000;
     Position: relative;
+    Left: 100px;
     border: 1px solid #1a1239;
     padding: 8px;
     margin-top: 20px;
@@ -351,6 +346,7 @@ textarea::placeholder {
     margin-bottom: 80px;
     Position: unset;
     display: flex;
+    Flex-direction: row;
 }
 
 .login-box {
